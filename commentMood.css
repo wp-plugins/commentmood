@@ -1,0 +1,35 @@
+#ambiance {
+	height: 28px;
+        cursor: pointer;
+        border-style: ridge;
+        float:right;
+        margin-right: 10px;	
+	font: bold 12px Arial, Helvetica, sans-serif;
+}
+.commentMood_form_for_post_comment {
+	overflow: hidden;
+	margin-left: 5px;
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+.commentMood_color_box_for_comment{
+	color: #FFFFFF;
+	float: left;
+	font-size: 11px;
+	font-weight: bold;
+	height: 20px;
+	line-height: 19px;
+	margin: 2px;
+	text-align: center;
+	width: 20px;
+	border: 1px solid #000;
+}
+.commentMood_label_for_post_comment {
+	float: left;
+        width: 100px;
+	line-height: 17px !important;
+}
+	.commentMood_label_for_post_comment input {
+		margin-top:7px !important;
+		vertical-align:bottom !important;
+	}
