@@ -1,9 +1,9 @@
 <?php
 /*
 Plugin Name: CommentMood
-Plugin URI: http://blog.webenbank.fr
+Plugin URI: http://blog.webenbank.fr/commentmood-plugin
 Description: Ce plugin permet aux personnes qui &eacute;crivent des commentaires d'indiquer leur avis par rapport &agrave; l'opinion de l'article. Les lecteurs peuvent ainsi avoir une id&eacute;e visuel de l'humeur g&eacute;n&eacute;rale qui se d&eacute;gage d'une discussion.
-Version: 1.0.0
+Version: 2.0
 Author: Benjamin FELLOUS
 Author URI: http://blog.webenbank.fr
 */
